@@ -1,5 +1,5 @@
 def nyc_pigeon_organizer(data)
-  data.reduce({}) do |memo, (key, value), (key, value)|
-    p value[value]
+  data.each({}) do |memo, (key, value)|
+    
   end
 end
