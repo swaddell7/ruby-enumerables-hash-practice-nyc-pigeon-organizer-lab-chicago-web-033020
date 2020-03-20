@@ -26,7 +26,8 @@ def nyc_pigeon_organizer(data)
       end
     end
   end
-  data[:lives].each do |location, bird_name|
+  data[:lives].each do |location, name|
+    name.each do 
     
   end
 end
