@@ -1,5 +1,6 @@
 def nyc_pigeon_organizer(data)
-  data.each({}) do |memo, (key, value)|
+  hash = {}
+  data.each do ||
     
   end
 end
