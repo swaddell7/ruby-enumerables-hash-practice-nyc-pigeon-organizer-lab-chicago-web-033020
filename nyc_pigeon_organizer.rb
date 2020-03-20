@@ -21,7 +21,7 @@ def nyc_pigeon_organizer(data)
     type.each do |bird_name|
       x.each do |item|
         if bird_name === item
-          final[item][:gender] << 
+          final[item][:gender] << type
     
   end
 end
